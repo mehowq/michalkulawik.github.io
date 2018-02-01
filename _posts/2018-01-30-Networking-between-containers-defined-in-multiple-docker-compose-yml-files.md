@@ -13,7 +13,7 @@ The containers worked perfectly. I could run all project components with no depe
 
 ## Automation
 
-I thought it would be a good to use the docker-compose to script out creating the containers/volumes/network.
+I thought it would be a good idea to use the docker-compose to script out creating the containers/volumes/network.
 
 I've created `docker-compose.yml` for each of the projects - the Angular frontend and Keystone/MongoDb backend. All three containers are set to use exactly the same network.
 
